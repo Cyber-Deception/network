@@ -14,9 +14,9 @@ https://www.nttsecurity.com/docs/librariesprovider3/resources/gbl_thought_leader
 http://s3.eurecom.fr/docs/csur18_deception.pdf
 
 
-** Reading List**
+**Reading List**
 
-** Signalling strategy **
+**Signalling strategy **
 
 Quantitative Models of Imperfect Deception in Network Security Using Signaling Games with Evidence (Pawlick and Zhu, 2017)
 
@@ -28,7 +28,7 @@ A Game Theoretic Investigation of Deception in Network Security
 
 Modeling Secrecy and Deception in a Multiple-Period Attacker–Defender Signaling Game (Zhuang et al., 2010)
 
-** Stackelberg **
+**Stackelberg **
 
 Learning about Cyber Deception through Simulations: Predictions of Human Decision Making with Deceptive Signals in Stackelberg Security Games (Cranford et al., 2017)
 
@@ -36,7 +36,7 @@ Game-Theoretic Algorithms for Optimal Network Security Hardening Using Attack Gr
 
 A Game-Theoretic Approach to IP Address Randomization in Decoy-Based Cyber Defense (Clark et al, 2015)
 
-** Markov **
+**Markov **
 
 Optimal Strategy Selection Approach to Moving Target Defense Based on Markov Robust Game (Tan et al., 2019)
 
@@ -45,7 +45,7 @@ Manipulating Adversary’s Belief: A Dynamic Game Approach to Deception by Desig
 Game Theoretic Approach to Threat Prediction and Situation Awareness
 (Chen et al., 2006)
 
-** Misc **
+**Misc **
 
 Han, Xiao, Nizar Kheir, and Davide Balzarotti. "Deception Techniques in Computer Security: A Research Perspective." ACM Computing Surveys (CSUR) 51, no. 4 (2018): 80.
 
