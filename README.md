@@ -45,3 +45,5 @@ https://www.nttsecurity.com/docs/librariesprovider3/resources/gbl_thought_leader
 
 https://www.youtube.com/watch?v=mJ-MrofGgQ4 
 
+https://pdfs.semanticscholar.org/8d38/232aade4008eed674e376f4891a20266b6c5.pdf
+
