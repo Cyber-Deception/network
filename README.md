@@ -47,3 +47,5 @@ https://www.youtube.com/watch?v=mJ-MrofGgQ4
 
 https://pdfs.semanticscholar.org/8d38/232aade4008eed674e376f4891a20266b6c5.pdf
 
+http://cyberdb.co/wp-content/uploads/pdf/DeceptionTech%20white%20paper%20v4.pdf
+
