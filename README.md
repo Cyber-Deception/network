@@ -52,3 +52,5 @@ http://cyberdb.co/wp-content/uploads/pdf/DeceptionTech%20white%20paper%20v4.pdf
 https://www.fidelissecurity.com/threatgeek/deception/breadcrumbs-intelligent-deception/
 
 https://www.blackhat.com/docs/us-14/materials/us-14-Mateski-The-Devil-Does-Not-Exist-The-Role-Of-Deception-In-Cyber.pdf
+
+https://zeltser.com/honeytokens-canarytokens-setup/
